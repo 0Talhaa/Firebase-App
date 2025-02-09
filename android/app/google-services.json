@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162229109465",
+    "project_id": "project-8402850690952052893",
+    "storage_bucket": "project-8402850690952052893.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162229109465:android:9b37dd250bf9c0b6a874c8",
+        "android_client_info": {
+          "package_name": "com.example.production"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zuFeNDOns0JJzHKjL4I3CH1a2P0OT9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162229109465:android:bb2066ff37401affa874c8",
+        "android_client_info": {
+          "package_name": "com.example.talha_production"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zuFeNDOns0JJzHKjL4I3CH1a2P0OT9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
