@@ -28,6 +28,8 @@ class MyApp extends StatelessWidget {
   }
 }
 
+
+
 class MyHome extends StatefulWidget {
   const MyHome({super.key});
 
@@ -38,9 +40,12 @@ class MyHome extends StatefulWidget {
 class _MyHomeState extends State<MyHome> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Center(
-        child: Text('Hello, Firebase!'), // Replaced Placeholder with Text
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("This is Flutter app"),
+        actions: [
+          Icon(Icons.home, color: const Color.fromARGB(255, 23, 24, 26))
+        ],
       ),
     );
   }
